@@ -3,4 +3,4 @@ High school paper about machine learning and artificial neural networks from 201
 
 Read it at https://n2d4.github.io/ml-ann/paper.pdf
 
-Try the Q-Learning tool at https://n2d4.github.io/ml-ann/qlearner
+Try the Q-Learning tool at https://n2d4.github.io/ml-ann/qlearner/index.html
